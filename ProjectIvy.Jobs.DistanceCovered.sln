@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1704.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectIvy.Jobs.DistanceCovered", "ProjectIvy.Jobs.DistanceCovered\ProjectIvy.Jobs.DistanceCovered.csproj", "{1959BAAF-F7FA-4BFC-8E9D-67D1C7C56515}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectIvy.Jobs.DistanceCovered", "src\ProjectIvy.Jobs.DistanceCovered\ProjectIvy.Jobs.DistanceCovered.csproj", "{1959BAAF-F7FA-4BFC-8E9D-67D1C7C56515}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B1F12435-8858-4F7A-A8C2-AC1B4511D720}"
 EndProject
